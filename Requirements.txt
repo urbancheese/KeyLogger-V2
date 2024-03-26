@@ -1,0 +1,6 @@
+pycryptodome
+pyHook (Install manually from GitHub)
+requests
+psutil
+socket
+threading
